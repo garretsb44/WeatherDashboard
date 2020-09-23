@@ -7,7 +7,7 @@ I have created an application that allows the user to search for cities in the U
 
 Installation:
 
-The site can be accessed through 
+The site can be accessed through https://garretsb44.github.io/WeatherDashboard/
 
 Usage:
 
